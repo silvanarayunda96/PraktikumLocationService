@@ -165,7 +165,3 @@ when (state) {
 <!-- Izin internet untuk Geocoding -->
 <uses-permission android:name="android.permission.INTERNET" />
 ```
-
-**Happy Coding! 🚀**
-
-Jika ada pertanyaan atau issue, silakan hubungi dosen/asisten praktikum Anda.
